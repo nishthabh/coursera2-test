@@ -15,7 +15,7 @@ h1{
 
   }
 
-  #switzerland {
+  #country{
     background-color: #ffca68;
     
   }
@@ -30,9 +30,8 @@ h1{
     width: 100%;
     padding: 0 10px 0 10px;
   }
-  #norway{
-
-  }
+ 
+  
    .title {
     border: 1px solid black;
     font-weight: bold;
